@@ -1,0 +1,54 @@
+@media print {
+
+    body {
+        font-family: Arial, sans-serif;
+    }
+
+    .user_page {
+        width: 100%;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    .user_header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .user_notes {
+        margin-bottom: 20px;
+    }
+
+    .sticky_note {
+        border: 1px solid #ccc;
+        padding: 10px;
+    }
+
+    .button_delete {
+        background-color: #0c0403;
+        color: #fff;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+    }
+
+    .pagination {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .end {
+        text-align: center;
+    }
+
+    .button_user {
+        background-color: #000000;
+        color: #fff;
+        border: none;
+        padding: 10px 20px;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-top: 20px;
+    }
+}
