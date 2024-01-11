@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "username": "Daria",
+      "title": "1 title",
+      "text": "1 note  "
+    },
+    {
+      "id": "2",
+      "username": "Daria",
+      "title": "2 title",
+      "text": "Things to buy in supermarket:\n\n1. milk\n2. bread "
+    },
+    {
+      "id": "658c716883cd7",
+      "username": "Daria",
+      "title": "3 title",
+      "text": "<script> alert(\"hehe\")<\/script> "
+    },
+    {
+      "id": "659896df2ab7f",
+      "username": "Daria",
+      "title": "4 title",
+      "text": "4 text hsfhskjgs   gfnxvg hehe"
+    },
+    {
+      "id": "659dfc0aceb8e",
+      "username": "Daria",
+      "title": "10",
+      "text": " 10 note sdfvs   xvbc"
+    },
+    {
+      "id": "659ea82ff35b8",
+      "username": "Daria",
+      "title": "11",
+      "text": " 11 note"
+    }
+  ]
+}

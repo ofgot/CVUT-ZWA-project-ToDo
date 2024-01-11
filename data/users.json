@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "username": "Daria",
+      "email": "ofgotcanoe@gmail.com",
+      "password": "$2y$10$\/ZCSEXHjG9Ebvp8RYO5W0.mfVK7fqXwUau.hRVIXYMQb4AcoQ.5Ni",
+      "photo": {
+        "name": "_DSC0983.JPG",
+        "full_path": "_DSC0983.JPG",
+        "type": "image\/jpeg",
+        "tmp_name": "C:\\xampp\\tmp\\phpBCEA.tmp",
+        "error": 0,
+        "size": 1280283
+      }
+    },
+    {
+      "username": "123rat",
+      "email": "Ofgot17@gmail.com",
+      "password": "$2y$10$AAd.HVBAIw2JCh1ckK6NieeHLBTnYLJy6X5Fp9JKpsGd1Sn8BnXhy",
+      "photo": {
+        "name": "_DSC0065.JPG",
+        "full_path": "_DSC0065.JPG",
+        "type": "image\/jpeg",
+        "tmp_name": "C:\\xampp\\tmp\\php2083.tmp",
+        "error": 0,
+        "size": 1123219
+      }
+    }
+  ]
+}
